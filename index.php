@@ -4,10 +4,7 @@
 <?php include 'header.php'; ?>
 
 <body class="index-page">
-
-
-
-  <main class="main">
+<main class="main">
 
   <!-- Hero Section -->
     <section id="hero" class="hero section">
