@@ -11,6 +11,7 @@
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -103,81 +104,64 @@
 
   <main class="main">
 
-    <!-- Hero Section -->
-    <section id="hero" class="hero section">
+  <!-- Hero Section -->
+  <section id="hero" class="hero section">
 
-      <div id="hero-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+    <div id="hero-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
 
-        <div class="carousel-item active">
-          <img src="assets/img/hero-carousel/hero-carousel-1.jpg" alt="">
-          <div class="carousel-container">
-            <h2>Welcome to <span>Eterna</span></h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            <a href="about.html" class="btn-get-started">Get Started</a>
-          </div>
-        </div><!-- End Carousel Item -->
-
-        <div class="carousel-item">
-          <img src="assets/img/hero-carousel/hero-carousel-2.jpg" alt="">
-          <div class="carousel-container">
-            <h2>At vero eos et accusamus</h2>
-            <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
-            <a href="about.html" class="btn-get-started">Get Started</a>
-          </div>
-        </div><!-- End Carousel Item -->
-
-        <div class="carousel-item">
-          <img src="assets/img/hero-carousel/hero-carousel-3.jpg" alt="">
-          <div class="carousel-container">
-            <h2>Temporibus autem quibusdam</h2>
-            <p>Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
-            <a href="about.html" class="btn-get-started">Get Started</a>
-          </div>
-        </div><!-- End Carousel Item -->
-
-        <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
-        </a>
-
-        <a class="carousel-control-next" href="#hero-carousel" role="button" data-bs-slide="next">
-          <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
-        </a>
-
-      </div>
-
-      <div class="featured container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4 d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="featured-item position-relative">
-              <div class="icon"><i class="bi bi-bounding-box-circles icon"></i></div>
-              <h4><a href="" class="stretched-link">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
-            </div>
-          </div><!-- End Featured Item -->
-
-          <div class="col-lg-4 d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="featured-item position-relative">
-              <div class="icon"><i class="bi bi-calendar4-week icon"></i></div>
-              <h4><a href="" class="stretched-link">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
-            </div>
-          </div><!-- End Featured Item -->
-
-          <div class="col-lg-4 d-flex" data-aos="fade-up" data-aos-delay="300">
-            <div class="featured-item position-relative">
-              <div class="icon"><i class="bi bi-broadcast icon"></i></div>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div><!-- End Featured Item -->
-
+      <div class="carousel-item active">
+        <img src="assets/img/hero-carousel/hero-carousel-1.jpg" alt="">
+        <div class="carousel-container">
+          <h2>Welcome to <span>ELT Life Advisory Sdn Bhd</span></h2>
+          <p>We focus on Accounting services, Corporate Secretary, Professional Business Advisory, and Training.</p>
+          <a href="about.html" class="btn-get-started">Get Started</a>
         </div>
+      </div><!-- End Carousel Item -->
+
+      <!-- (You can keep the other carousel-item slides as-is or customize them similarly) -->
+
+    </div>
+
+    <div class="featured container">
+      <div class="row gy-4">
+
+        <div class="col-lg-3 d-flex" data-aos="fade-up" data-aos-delay="100">
+          <div class="featured-item position-relative">
+            <div class="icon"><i class="bi bi-journal-text icon"></i></div>
+            <h4><a href="#" class="stretched-link">Accounting Services</a></h4>
+            <p>Providing comprehensive accounting solutions to manage your financial records accurately.</p>
+          </div>
+        </div><!-- End Featured Item -->
+
+        <div class="col-lg-3 d-flex" data-aos="fade-up" data-aos-delay="200">
+          <div class="featured-item position-relative">
+            <div class="icon"><i class="bi bi-briefcase icon"></i></div>
+            <h4><a href="#" class="stretched-link">Corporate Secretary</a></h4>
+            <p>Ensuring compliance and efficient corporate governance for your company.</p>
+          </div>
+        </div><!-- End Featured Item -->
+
+        <div class="col-lg-3 d-flex" data-aos="fade-up" data-aos-delay="300">
+          <div class="featured-item position-relative">
+            <div class="icon"><i class="bi bi-bar-chart-line icon"></i></div>
+            <h4><a href="#" class="stretched-link">Business Advisory</a></h4>
+            <p>Offering expert advice to drive growth and strategic decision-making.</p>
+          </div>
+        </div><!-- End Featured Item -->
+
+        <div class="col-lg-3 d-flex" data-aos="fade-up" data-aos-delay="400">
+          <div class="featured-item position-relative">
+            <div class="icon"><i class="bi bi-mortarboard icon"></i></div>
+            <h4><a href="#" class="stretched-link">Training</a></h4>
+            <p>Delivering tailored training programs to enhance skills and knowledge.</p>
+          </div>
+        </div><!-- End Featured Item -->
 
       </div>
+    </div>
 
-    </section><!-- /Hero Section -->
+  </section><!-- /Hero Section -->
+
 
     <!-- About Section -->
     <section id="about" class="section about">
