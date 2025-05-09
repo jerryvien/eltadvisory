@@ -27,10 +27,10 @@
           <span class="sitename">ELT Life Advisory Sdn Bhd</span>
         </a>
         <div class="footer-contact pt-3">
-          <p>Suite 12-01, Level 12, Menara XYZ</p>
-          <p>Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia</p>
-          <p class="mt-3"><strong>Phone:</strong> <span>+60 3 1234 5678</span></p>
-          <p><strong>Email:</strong> <span>info@eltlifeadvisory.com.my</span></p>
+          <p>No 6, Jalan TSR 2</p>
+          <p>Taman Scientex, 48000 Rawang, Malaysia</p>
+          <p class="mt-3"><strong>Phone:</strong> <span>+60 14-382 8625</span></p>
+          <p><strong>Email:</strong> <span>finance@eltlifeadvisory.com.my</span></p>
         </div>
       </div>
 
