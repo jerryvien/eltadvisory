@@ -11,7 +11,7 @@
           <li class="current">About</li>
         </ol>
       </nav>
-      <h1>About</h1>
+      <h1>About Us</h1>
     </div>
   </div>
 
@@ -20,16 +20,24 @@
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="row gy-4">
         <div class="col-lg-6 order-1 order-lg-2">
-          <img src="assets/img/about.jpg" class="img-fluid" alt="">
+          <img src="assets/img/about.jpg" class="img-fluid" alt="About ELT Life Advisory">
         </div>
         <div class="col-lg-6 order-2 order-lg-1 content">
-          <h3>Voluptatem dignissimos provident</h3>
-          <p class="fst-italic">Lorem ipsum dolor sit amet...</p>
+          <h3>Who We Are: ELT Life Advisory</h3>
+          <p class="fst-italic">
+            At ELT Life Advisory, we are more than just financial consultants — we are life partners in planning, protecting, and progressing.
+          </p>
+          <p>
+            Established with the vision of empowering individuals and families to take control of their financial futures, ELT Life Advisory brings together a team of experienced professionals from the insurance, wealth management, and retirement planning sectors. Our mission is to simplify complex financial decisions and provide tailor-made solutions that truly reflect our clients' needs, goals, and values.
+          </p>
           <ul>
-            <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip...</li>
-            <li><i class="bi bi-check2-all"></i> Duis aute irure dolor...</li>
+            <li><i class="bi bi-check2-all"></i> Personalized financial planning services built on trust and transparency.</li>
+            <li><i class="bi bi-check2-all"></i> Comprehensive coverage including life protection, medical plans, estate planning, and education savings.</li>
+            <li><i class="bi bi-check2-all"></i> A commitment to lifelong support as your goals evolve and your milestones grow.</li>
           </ul>
-          <p>Ullamco laboris nisi ut aliquip ex ea commodo consequat...</p>
+          <p>
+            Whether you are planning for your first child, preparing for retirement, or safeguarding your legacy — ELT Life Advisory is here to walk with you every step of the way.
+          </p>
         </div>
       </div>
     </div>
